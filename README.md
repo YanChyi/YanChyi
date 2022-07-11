@@ -17,7 +17,7 @@ You can view my portfolio here: [Portfolio Projects](https://yanchyi.github.io/)
         <tr>
             <td align="center" width="96">
                 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DKNJEE2QG97V" target="_blank" rel="noopener noreferrer">
-                 <img src="https://images.credly.com/size/340x340/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png" style="max-height: 72px;">
+                 <img src="https://github.com/YanChyi/YanChyi/blob/main/logo/IBM%20Data%20Analyst.png" style="max-height: 72px;">
                 </a>
             </td>
             <td align="left" width="600">
@@ -30,7 +30,7 @@ You can view my portfolio here: [Portfolio Projects](https://yanchyi.github.io/)
         <tr>
             <td align="center" width="96">
                 <a href="https://www.udemy.com/certificate/UC-103cb515-b4b0-441c-82b9-044ac5902edb/" target="_blank" rel="noopener noreferrer">
-                 <img src="" style="max-height: 72px;">
+                 <img src="https://github.com/YanChyi/YanChyi/blob/main/logo/Udemy%20logo.svg" style="max-height: 72px;">
                 </a>
             </td>
             <td align="left" width="600">
@@ -43,7 +43,7 @@ You can view my portfolio here: [Portfolio Projects](https://yanchyi.github.io/)
         <tr>
             <td align="center" width="96">
                 <a href="https://www.udemy.com/certificate/UC-6c8a4cb7-7879-4b49-8e20-03d5e618d81b/" target="_blank" rel="noopener noreferrer">
-                 <img src="" style="max-height: 72px;">
+                 <img src="https://github.com/YanChyi/YanChyi/blob/main/logo/Udemy%20logo.svg" style="max-height: 72px;">
                 </a>
              </td>
             <td align="left" width="600">
@@ -56,7 +56,7 @@ You can view my portfolio here: [Portfolio Projects](https://yanchyi.github.io/)
          <tr>
             <td align="center" width="96">
                 <a href="https://www.udemy.com/certificate/UC-6f4ce599-4f5c-4314-a41b-e3ac183cb89d/" target="_blank" rel="noopener noreferrer">
-                 <img src="" style="max-height: 72px;">
+                 <img src="https://github.com/YanChyi/YanChyi/blob/main/logo/Udemy%20logo.svg" style="max-height: 72px;">
                 </a>
              </td>
             <td align="left" width="600">
