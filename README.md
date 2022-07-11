@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Yan Chyi.
+
+I am a project assistant with 2+ years of work experience in researching, gathering, analysing, and interpreting data for the gaming and payment market.
+ 
+I recently completed the [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/DKNJEE2QG97V) and looking for a job opportunity in the data analytics field.
+
+You can view my portfolio here: [Portfolio Projects](https://yanchyi.github.io/)
 
 <!--
 **YanChyi/YanChyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
