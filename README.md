@@ -2,7 +2,7 @@
 
 I am a project assistant with 2+ years of work experience in researching, gathering, analysing, and interpreting data for the gaming and payment market.
  
-I recently completed the [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/DKNJEE2QG97V) and looking for a job opportunity in the data analytics field.
+I recently completed the <a href= "https://www.coursera.org/account/accomplishments/specialization/certificate/DKNJEE2QG97V" target="_blank">IBM Data Analyst Professional Certificate</a> and looking for a job opportunity in the data analytics field.
 
 You can view my portfolio here: [Portfolio Projects](https://yanchyi.github.io/)
 
